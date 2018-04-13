@@ -1,7 +1,7 @@
 // While You Wait
 for (var daysUntilMyBirthday = 60; daysUntilMyBirthday >= 0; daysUntilMyBirthday--) {
     if (daysUntilMyBirthday >= 30) {
-    console.log(daysUntilMyBirthday + " days until my birthday. Such a long time... :(");
+        console.log(daysUntilMyBirthday + " days until my birthday. Such a long time... :(");
     }
     if (daysUntilMyBirthday < 30 && daysUntilMyBirthday >= 5) {
         console.log(daysUntilMyBirthday + " days until my birthday. I'm getting excited!");
